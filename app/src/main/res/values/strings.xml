@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Monitoring Sleep App</string>
+    <string name="sleep_activity">Sleep Activity</string>
+    <string name="statistics_activity">Statistics Activity</string>
+    <string name="journal_activity">Journal Activity</string>
+    <string name="preferences_activity">Preferences Activity</string>
+</resources>
