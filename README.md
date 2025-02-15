@@ -3,7 +3,7 @@ This project was developed as part of the **Calcul Mobil** (Mobile Computing) co
 
 ## Requirements  
 - Kotlin (for the project)  
-- Android 5.0 (for the app)
+- Android 5.0 or higher (for the app)
 
 ## Demo  
 <p align="center">
